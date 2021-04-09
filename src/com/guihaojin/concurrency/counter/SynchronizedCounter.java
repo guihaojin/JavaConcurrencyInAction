@@ -1,7 +1,5 @@
 package com.guihaojin.concurrency.counter;
 
-import com.guihaojin.concurrency.MyLockTest;
-
 public class SynchronizedCounter {
 
     public static class SyncCounter {

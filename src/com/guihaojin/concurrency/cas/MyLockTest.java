@@ -1,4 +1,4 @@
-package com.guihaojin.concurrency;
+package com.guihaojin.concurrency.cas;
 
 public class MyLockTest implements Runnable {
 
